@@ -1,3 +1,5 @@
+# modify contents : use _data/imagenet-vgg-verydeep-19.mat 
+
 # neural-style
 
 An implementation of [neural style][paper] in TensorFlow.
